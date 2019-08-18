@@ -1,6 +1,6 @@
 # suicide_stopper
 
-VERSION ACTUELLE : Menu + Intro 100% fonctionnel
+VERSION ACTUELLE : Menu + Intro 100% fonctionnels
 
 
 Pour utiliser le jeu : 
