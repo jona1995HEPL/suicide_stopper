@@ -16,7 +16,7 @@ OU POUR JOUER DIRECTEMENT
 
 https://www.newgrounds.com/projects/games/1361004/preview
 
-(Il est possible qu'il faille attendre un peu avant que la flèche "play" n'apparaisse.
+(Il est possible qu'il faille attendre un peu avant que la flèche "play" n'apparaisse.)
 
 ------------------
 
